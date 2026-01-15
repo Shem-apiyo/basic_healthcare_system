@@ -12,19 +12,19 @@ A simple console-based management system written in C to show fundamental skills
 ## How to Compile and Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/basic-management-system-c.git
+   git clone https://github.com/Shem-apiyo/basic_healthcare_system/.git
 
 2. Navigate into the project directory:
-   cd basic-management-system-c
+   cd basic_healthcare_management_system
 
 3. Compile the program:
-   gcc group_project_final.c -o management_system
+   gcc .c -o management_system
 
 4. Run the program:
    ./management_system
 
 ## Project Structure
-- `c` — main source code file
+- `basic_healthcare_management_system.c` — main source code file
 - `README.md` — project documentation
 
 ## Purpose
